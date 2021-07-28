@@ -1,4 +1,3 @@
-        // if(x==0)
-        // {
-        //     break;
+else{
+        //     exit(EXIT_SUCCESS);
         // }

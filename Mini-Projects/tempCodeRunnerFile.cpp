@@ -1,6 +1,4 @@
 
+    inFile.open("Student.txt");
+    if (!inFile)
     {
-
-        File.read((char *)&st, sizeof(Student));
-        if (st.ret_rollnumber() == n)
-        {
